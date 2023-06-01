@@ -1,0 +1,24 @@
+/* Write your code here. */
+.outerDiv {
+  display: flex;
+  flex-direction: column;
+  background-color: #9796f0;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 10px;
+}
+.emoji {
+  width: 100%;
+}
+.inner {
+  width: 50%;
+  height: 50%;
+}
+.emojiBtn {
+  background-color: transparent;
+  border-style: none;
+}
